@@ -1,0 +1,3 @@
+github "anotheren/LogWriter" ~> 1.0
+
+## carthage update --platform ios
